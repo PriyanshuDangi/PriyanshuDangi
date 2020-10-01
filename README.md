@@ -1,4 +1,4 @@
-### Hi there <img src="https://github.com/satyamurti/satyamurti/blob/master/Hi.gif" width="29px">! I am Priyanshu Dangi , I am -
+### Hi there <img src="https://github.com/PriyanshuDangi/PriyanshuDangi/blob/master/Hi.gif" width="29px"> I am Priyanshu Dangi , I am -
 
 - A Web Developer
 
