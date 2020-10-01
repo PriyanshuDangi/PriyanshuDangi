@@ -1,6 +1,5 @@
-### Hi there 👋 I am Priyanshu Dangi , I am -
+### Hi there <img src="https://github.com/satyamurti/satyamurti/blob/master/Hi.gif" width="29px">! I am Priyanshu Dangi , I am -
 
-- A Sophomore pursuing CSE at National Institiute Of Technology , Tiruchirappalli
 - A Web Developer
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=PriyanshuDangi)
